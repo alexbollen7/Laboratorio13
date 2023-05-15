@@ -1,3 +1,12 @@
-{
-
-}
+[
+  
+  {
+    "FechaVencimiento": "16/08/2023",
+    "UnidadMedida": "Gramos",
+    "CodigoProducto": "123ABC",
+    "NombreProducto": "Tortrix",
+    "DescripcionProducto": "Galgería sabor limon",
+    "PrecioCompra": 1.0,
+    "PrecioVenta": 1.5
+  }
+]
